@@ -1,4 +1,4 @@
-## Curato Create and Update
+## Curator Create and Update
 
 ### Update
 
